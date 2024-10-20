@@ -28,7 +28,7 @@
 
 - Orden git push origin main
 
-##cambio1
-##cambio2
+
+Después de añadir la carpeta reto-2 al archivo ignore, sigue apareciendo...
 
 
