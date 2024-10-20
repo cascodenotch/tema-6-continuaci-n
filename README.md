@@ -29,8 +29,8 @@
 - Orden git push origin main
 
 
-# Comentario reto 4: Después de añadir la carpeta reto-2 al archivo ignore, sigue apareciendo...
+## Comentario reto 4: Después de añadir la carpeta reto-2 al archivo ignore, sigue apareciendo...
 
-# Comentario reto 5: 
+ 
 
 
